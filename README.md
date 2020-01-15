@@ -14,7 +14,7 @@ PyTorch入门学习计划
 
 ### Day1
 
-PyTorch安装和环境配置+tensor学习
+[Day1PyTorch历史与特点](https://github.com/yyyujintang/PyTorch-Learning/blob/master/Day1PyTorch%E5%8E%86%E5%8F%B2%E4%B8%8E%E7%89%B9%E7%82%B9.md)
 
 ### Day2
 
