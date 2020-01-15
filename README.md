@@ -7,7 +7,9 @@ PyTorch入门学习计划
 - 视频：龙龙老师PyTorch视频 https://b23.tv/av82975543/p1
 - 在线文档：PyTorch教程  http://pytorch123.com 
 - Github:
+
   动手学深度学习PyTorch实现  https://github.com/ShusenTang/Dive-into-DL-PyTorch
+  
   深度学习框架PyTorch：入门与实践  https://github.com/chenyuntc/pytorch-book
 
 学习时长：30天
