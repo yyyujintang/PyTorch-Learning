@@ -11,6 +11,7 @@ PyTorch入门学习计划
   深度学习框架PyTorch：入门与实践  https://github.com/chenyuntc/pytorch-book
 
 学习时长：30天
+
 开始时间：2020年01月15日
 
 ### Day1
