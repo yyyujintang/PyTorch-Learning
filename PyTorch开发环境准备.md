@@ -30,5 +30,5 @@ nvcc.exe
 
 输出torch版本和是否可以使用GPU
 
-![](\img\test.PNG)
+![](/img/test.PNG)
 
