@@ -14,19 +14,19 @@ learning rate学习速率X'=X-lr*δX(lr is short for learning rate)
 
 #### comput_error
 
-![comput_error](comput_error.PNG)
+![comput_error](/img/comput_error.PNG)
 
 #### step_gradient
 
-![step_gradient](step_gradient.PNG)
+![step_gradient](/img/step_gradient.PNG)
 
 #### gradient_descent_runner
 
-![gradient_descent_runner](gradient_descent_runner.PNG)
+![gradient_descent_runner](/img/gradient_descent_runner.PNG)
 
 #### run
 
-![run](run.PNG)
+![run](/img/run.PNG)
 
 #### 输出
 
