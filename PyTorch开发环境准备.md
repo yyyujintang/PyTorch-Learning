@@ -20,7 +20,7 @@ nvcc.exe
 
 在PyTorch官网选择对应的版本
 
-插图
+![](PyTorch_download.png)
 
 在Anaconda Prompt中使用对应命令进行安装
 
@@ -30,5 +30,5 @@ nvcc.exe
 
 输出torch版本和是否可以使用GPU
 
-插图
+![](test.png)
 
