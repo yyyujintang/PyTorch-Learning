@@ -30,4 +30,4 @@ learning rate学习速率X'=X-lr*δX(lr is short for learning rate)
 
 #### 输出
 
-![LR_output](LR_output.PNG)
+![LR_output](/img/LR_output.PNG)
