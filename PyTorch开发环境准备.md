@@ -20,7 +20,7 @@ nvcc.exe
 
 在PyTorch官网选择对应的版本
 
-![](\img\PyTorch_download.PNG)
+![](/img/PyTorch_download.PNG)
 
 在Anaconda Prompt中使用对应命令进行安装
 
