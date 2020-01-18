@@ -24,6 +24,8 @@ PyTorch入门学习计划
 
 [LinearRegression初探](https://github.com/yyyujintang/PyTorch-Learning/blob/master/Linear_Regression%E5%88%9D%E6%8E%A2.md)
 
+[Tensor维度创建代码示意](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/PyTorch%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb)
+
 ### Day2
 
 PyTorch中神经网络模块nn基础学习
