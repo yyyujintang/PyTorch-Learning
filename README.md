@@ -32,6 +32,8 @@ PyTorch入门学习计划
 
 [创建Tensor](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/%E5%88%9B%E5%BB%BATensor.ipynb)
 
+[PyTorch自动微分](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/PyTorch%E8%87%AA%E5%8A%A8%E5%BE%AE%E5%88%86.ipynb)
+
 
 
 ### Day4 & Day5
