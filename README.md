@@ -30,7 +30,9 @@ PyTorch入门学习计划
 
 ### Day3
 
-PyTorch数据加载，GPU加速和可视化
+[创建Tensor](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/%E5%88%9B%E5%BB%BATensor.ipynb)
+
+
 
 ### Day4 & Day5
 
