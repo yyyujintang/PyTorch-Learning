@@ -38,7 +38,7 @@ PyTorch入门学习计划
 
 ### Day4 & Day5
 
-Mnist/Cifar10/Kaggle房价预测三选一实战
+[PyTorch神经网络](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/PyTorch%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 
 ### Day6 & Day7
 
