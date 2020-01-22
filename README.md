@@ -35,10 +35,13 @@ PyTorch入门学习计划
 [PyTorch自动微分](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/PyTorch%E8%87%AA%E5%8A%A8%E5%BE%AE%E5%88%86.ipynb)
 
 
-
-### Day4 & Day5
+### Day4
 
 [PyTorch神经网络](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/PyTorch%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
+
+### Day4
+
+Mnist实战
 
 ### Day6 & Day7
 
