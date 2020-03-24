@@ -39,10 +39,7 @@ PyTorch入门学习计划
 
 [PyTorch神经网络](https://github.com/yyyujintang/PyTorch-Learning/blob/master/src/PyTorch%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 
-### Day5
+### 2020年3月25日更新
+[]()
 
-Mnist实战
-
-### Day6 & Day7
-
-GAN学习与PyTorch GAN实战
+[]()
