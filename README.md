@@ -44,4 +44,4 @@ PyTorch入门学习计划
 
 [PyTorch100题_Day2](https://github.com/yyyujintang/PyTorch-Learning/blob/master/PyTorch100%E9%A2%98_Day2.md)
 
-[PyTorch100题_Day3]()
+[PyTorch100题_Day3](https://github.com/yyyujintang/PyTorch-Learning/blob/master/PyTorch100%E9%A2%98_Day3.md)
